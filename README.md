@@ -1,8 +1,8 @@
 # OpenIoE Matlab Client
 
 Open IoE Matlab client is developed using Matlab App Designer and Matlab programming. This application is used to interact with Open IoE Platform to monitor and control IoT devices.
-<p>
- <img src="https://drive.google.com/uc?id=1BUQMqY_aNCKHULrGooNMsJk4PK8fPZM-" alt="OpenIoE" width="200"> 
+<p align="center">
+ <img src="https://drive.google.com/uc?id=1BUQMqY_aNCKHULrGooNMsJk4PK8fPZM-" alt="OpenIoE" width="500"> 
 </p>
 
 
