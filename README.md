@@ -9,6 +9,7 @@ Open IoE Matlab client is developed using Matlab App Designer and Matlab program
 ### Software Requirements
 - Matlab
 - OpenIoE Platform  [OpenIoE](https://openioe.in/)
+- OpenIoE Help  [Doc](https://doc.openioe.in/)
 
 ### Download
 - Clone: $ git clone https://github.com/Gnanodaya/OpenIoE-Matlab-Client.git
