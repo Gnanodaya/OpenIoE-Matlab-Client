@@ -6,6 +6,24 @@ Open IoE Matlab client is developed using Matlab App Designer and Matlab program
 </p>
 
 
+### Features of Matlab Client are,
+
+- Fetch data from IoT paltform
+- Plot real time data
+- Display sensor value in a gauge
+- Control the IoT devices
+
+### Procedure to work on Matlab Client
+
+- Register - OpenIoE (https://openioe.in)
+- Login to OpenIoE platform
+- Create IoT devices using Online portal. (https://app.openioe.in)
+- Open Matlab Client from Matlab and Login
+- Add IoT devices in the configuration tab
+- Click on Data>>Fetch Data
+- Click on Plot>>Plot Start
+- Click on Gauge>>Gauge start
+
 ### Software Requirements
 - Matlab
 - OpenIoE Platform  [OpenIoE](https://openioe.in/)
